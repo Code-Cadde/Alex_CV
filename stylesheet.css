@@ -52,16 +52,16 @@ body
     padding-top: 10px;
     font-weight: 600;
 }
+.ProfileTextContacts
+{
+color: white;
+font-size: 15px;
+font-weight: 600;
+}
 .RightContainer
 {
     background-color: white;
     position: relative;
     padding: 40px;
     
-}
-.ProfileTextContacts
-{
-color: white;
-font-size: 15px;
-font-weight: 600;
 }
