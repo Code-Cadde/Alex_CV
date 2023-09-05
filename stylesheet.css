@@ -87,3 +87,7 @@ padding-bottom: 20px;
 ul {
   list-style-type: none;
 }
+h4, h5
+{
+    color: #256eff;
+}
