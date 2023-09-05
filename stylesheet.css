@@ -65,3 +65,19 @@ font-weight: 600;
     padding: 40px;
     
 }
+.RightProfile
+{
+    font-weight: 600;
+}
+.Rightjob
+{
+    position: relative;
+    flex-direction: column;
+    align-items: left;
+
+}
+.RightJobInfo
+{
+    position: relative;
+    align-items: right;
+}
